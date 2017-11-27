@@ -1,0 +1,25 @@
+Hola
+
+Este documento enseña como configurar tu aplicacion Moodle 2.7 para la utilizacion de servicios web
+
+1. Activar los servicios web
+
+Administracion del sitio -> Extensiones -> Servicios web -> Vista general
+
+
+Habilitar servicios web -> Habilidar mediante check button -> Guardar Cambios
+
+Tambien se puede buscar en buscador mediante la palabra clave
+
+enablewebservices
+
+
+2) Activar protocolos
+
+Administracion del sitio -> Extensiones -> Servicios web -> Vista general
+
+Habilitar los protocolos -> Habilitar REST mediate el ojo
+
+Guardar cambios
+
+3)
