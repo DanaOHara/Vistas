@@ -1,5 +1,5 @@
 {
   "root": "http://localhost:90/MABP/Vistas/home.html",
   "clean_urls": true,
-  "error_page": "y"
+
 }
